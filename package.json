@@ -1,0 +1,22 @@
+{
+  "name": "@abusalehfaysal/hello-world",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbuSalehFaysal/hello-world-by-abusalehfaysal.git"
+  },
+  "keywords": [
+    "HW"
+  ],
+  "author": "Abu Saleh Faysal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbuSalehFaysal/hello-world-by-abusalehfaysal/issues"
+  },
+  "homepage": "https://github.com/AbuSalehFaysal/hello-world-by-abusalehfaysal#readme"
+}
